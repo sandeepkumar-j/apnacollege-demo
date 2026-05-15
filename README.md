@@ -1,6 +1,4 @@
 # apnacollege-demo
-This is my first GIT repository.
-<br>
-Author - Sandeep Kumar Jagadeesan.
-<br>
+This is my first GIT repository.<br>
+Author - Sandeep Kumar Jagadeesan.<br>
 Location - Bengaluru Karnataka
