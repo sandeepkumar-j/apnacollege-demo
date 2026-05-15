@@ -2,4 +2,4 @@ import time
 name = "SandeepKumarJagadeesan"
 for letter in name:
     print(letter)
-    time.sleep(1)
+    time.sleep(2)
